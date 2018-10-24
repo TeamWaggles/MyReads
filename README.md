@@ -10,3 +10,8 @@ Instructions on how to load this application onto your local machine
 * This will start the app in your default browser at: localhost:3000
 * Navigate the Books by selecting "Currently Reading", "Want to Read" and "Read"
 * Note the Green "plus" button at the bottom of the screen, this is your search tab
+
+
+
+
+###### created based on tutorial provided by Ryan M. Waite https://www.youtube.com/watch?v=acJHkd6K5kI&t=977s
