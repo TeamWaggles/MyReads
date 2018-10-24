@@ -1,5 +1,5 @@
 # MyReads
-React, JavaScript, API's
+React, JavaScript
 
 Instructions on how to load this application onto your local machine
 * Download .zip file and unzip into a directory
